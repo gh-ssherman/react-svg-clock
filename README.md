@@ -3,6 +3,9 @@ React SVG demo app by Stephen Sherman
 
 <img src="static/assets/react-svg-clock.png">
 
+# Demo
+[React SVG Clock](https://codesandbox.io/s/busy-fire-x4zlht?from-embed)
+
 # Usage
 
 ## Installation
