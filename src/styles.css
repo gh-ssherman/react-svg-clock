@@ -1,0 +1,9 @@
+body {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: 900;
+  background-color: #d3d3d3;
+}
+
+.react-svg-clock {
+  padding: 72px;
+}

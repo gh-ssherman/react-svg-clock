@@ -1,0 +1,460 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test <Clock /> component Should render correctly 1`] = `
+<div>
+  <svg>
+    <svg
+      preserveAspectRatio="xMinYMin meet"
+      viewBox="-200 -50 400 100"
+      width="100%"
+    >
+      <g>
+        <svg
+          x="-200"
+          y="-50"
+        >
+          <defs>
+            <radialgradient
+              cx="50%"
+              cy="0%"
+              fx="50%"
+              fy="0%"
+              id="reflective-glare"
+              r="50%"
+            >
+              <stop
+                offset="0"
+                stop-color="#000"
+                stop-opacity="0.35"
+              />
+              <stop
+                offset="1"
+                stop-color="#000"
+                stop-opacity="1"
+              />
+            </radialgradient>
+          </defs>
+          <g>
+            <svg>
+              <defs>
+                <clippath
+                  id="foot-0-clip"
+                >
+                  <rect
+                    height="7.272727272727273"
+                    width="36.36363636363637"
+                    x="61.81818181818181"
+                    y="90.9090909090909"
+                  />
+                </clippath>
+              </defs>
+              <circle
+                clip-path="url(#foot-0-clip)"
+                cx="80"
+                cy="84"
+                fill="#000"
+                r="18.181818181818183"
+              />
+            </svg>
+            <svg>
+              <defs>
+                <clippath
+                  id="foot-1-clip"
+                >
+                  <rect
+                    height="7.272727272727273"
+                    width="36.36363636363637"
+                    x="301.8181818181818"
+                    y="90.9090909090909"
+                  />
+                </clippath>
+              </defs>
+              <circle
+                clip-path="url(#foot-1-clip)"
+                cx="320"
+                cy="84"
+                fill="#000"
+                r="18.181818181818183"
+              />
+            </svg>
+            <rect
+              fill="url(#reflective-glare)"
+              height="84"
+              rx="23.995200959808034"
+              ry="50"
+              stroke="#3d4849"
+              stroke-width="5.99970001499925"
+              width="392"
+              x="4"
+              y="4"
+            />
+          </g>
+        </svg>
+        <svg
+          x="-200"
+          y="-50"
+        >
+          <g>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="-140"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#222224"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="-100"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#00dc55"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="-40"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#00dc55"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="0"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#00dc55"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="60"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#00dc55"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <svg
+              height="60"
+              viewBox="-1 -1 12 20"
+              x="100"
+              y="16"
+            >
+              <g>
+                <polygon
+                  fill="#00dc55"
+                  id="segment-a"
+                  points="1, 1  2, 0  8, 0  9, 1  8, 2  2, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-b"
+                  points="9, 1 10, 2 10, 8  9, 9  8, 8  8, 2"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-c"
+                  points="9, 9 10,10 10,16  9,17  8,16  8,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-d"
+                  points="9,17  8,18  2,18  1,17  2,16  8,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-e"
+                  points="1,17  0,16  0,10  1, 9  2,10  2,16"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#00dc55"
+                  id="segment-f"
+                  points="1, 9  0, 8  0, 2  1, 1  2, 2  2, 8"
+                  style="transition: 0.33s ease-in-out;"
+                />
+                <polygon
+                  fill="#222224"
+                  id="segment-g"
+                  points="1, 9  2, 8  8, 8  9, 9  8,10  2,10"
+                  style="transition: 0.33s ease-in-out;"
+                />
+              </g>
+            </svg>
+            <g>
+              <circle
+                cx="130"
+                cy="38.5"
+                fill="#00dc55"
+                r="4"
+              />
+              <circle
+                cx="130"
+                cy="53.5"
+                fill="#00dc55"
+                r="4"
+              />
+            </g>
+            <g>
+              <circle
+                cx="229.99999999999997"
+                cy="38.5"
+                fill="#00dc55"
+                r="4"
+              />
+              <circle
+                cx="229.99999999999997"
+                cy="53.5"
+                fill="#00dc55"
+                r="4"
+              />
+            </g>
+            <g>
+              <text
+                fill="#222224"
+                font-size="10"
+                id="am"
+                style="transition: 0.33s ease-in-out;"
+                x="336"
+                y="26"
+              >
+                AM
+              </text>
+              <text
+                fill="#00dc55"
+                font-size="10"
+                id="pm"
+                style="transition: 0.33s ease-in-out;"
+                x="336"
+                y="38"
+              >
+                PM
+              </text>
+            </g>
+          </g>
+        </svg>
+      </g>
+    </svg>
+  </svg>
+</div>
+`;
